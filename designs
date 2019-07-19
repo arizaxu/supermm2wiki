@@ -1,0 +1,12 @@
+#database name supermm2_wiki
+##tablename courses
+###fields
+   + course_name
+   + course_difficulty
+   + is_trending
+
+
+# endpoints
+##GET			/supermm2/famousfunmaps
+##GET			/supermm2/trendingmaps
+##GET			/supermm2/randomfunnymaps
